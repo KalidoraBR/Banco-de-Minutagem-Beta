@@ -1,0 +1,6 @@
+{
+  "name": "Banco de Minutagens",
+  "description": "Organizador de séries e registro de minutagens de abertura, recapitulação e encerramento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
